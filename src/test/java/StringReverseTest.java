@@ -21,10 +21,10 @@ public class StringReverseTest {
     @DisplayName("Test XOR reverse method")
     @ParameterizedTest
     @MethodSource("dataSet")
-    void testReverseXOR(String a, String b) {
+    void testReverseXOR(String act, String exp) {
         StringReverse solution = new StringReverse();
-        String actual = solution.reverseXOR(a);
-        String expected = b;
+        String actual = solution.reverseXOR(act);
+        String expected = exp;
         assertEquals(expected, actual);
     }
 }
