@@ -1,4 +1,5 @@
 Manifest-Version: 1.0
-Created-By: 1.6.0_19 (Sun Microsystems Inc.)
+Created-By: Maven Jar Plugin 3.2.0
+Build-Jdk-Spec: 11
 Main-Class: org.example.stringreverse.App
 
