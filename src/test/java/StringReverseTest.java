@@ -1,4 +1,4 @@
-import net.example.stringreverse.StringReverse;
+import org.example.stringreverse.StringReverse;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.Arguments;

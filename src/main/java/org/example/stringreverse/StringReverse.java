@@ -1,4 +1,4 @@
-package net.example.stringreverse;
+package org.example.stringreverse;
 
 public class StringReverse {
     public String reverseXOR(String str) {
